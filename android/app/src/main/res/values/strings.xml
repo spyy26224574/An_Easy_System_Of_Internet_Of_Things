@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Demo_Start</string>
+    <string name="ac1_btn">CON</string>
+    <string name="ac1_bt2">发送</string>
+</resources>
